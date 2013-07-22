@@ -12,16 +12,16 @@ EXAMPLE:
 ```javascript
  //AshleyWilliams_assessment.js
  //1. Arrays
- var my_array = ["Blake","Ashley","Jeff"]
+ var my_array = ["Blake","Ashley","Jeff"];
  my_array.push("Avi");
- for(int i=0; i<my_array.length;i++){
+ for(var i=0; i<my_array.length; i++){
  	console.log(my_array[i]);		
  }
  console.log(my_array[1]);
  var index = my_array.indexOf("Jeff");
  
  //2. Hashes
- instructor = {"name": "Ashley", "age": 27}
+ instructor = {"name": "Ashley", "age": 27};
  //.... etc etc
 ```
  
