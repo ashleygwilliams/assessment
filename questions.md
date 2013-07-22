@@ -121,3 +121,97 @@
 	b. Refactor your School instance methods to treat Students as an array of objects instead of an array of hashes.
 
 	c. Create a method in the School class that finds a student by name and returns the correct Student object.	
+
+## Self
+
+	Note: in cases where self is an instance of an object just note that as the object id printed to the screen is going to be different everytime
+
+	What should this Class print to the screen when defined/loaded?
+
+	```ruby
+	class Student
+
+	  def self.say_hello
+	    puts "hello"
+	  end
+
+	  say_hello
+	  puts self
+
+	end
+	```
+
+	What should this Class print to the screen when defined/loaded?
+
+	```ruby
+	class Student
+
+	  def self.say_hello
+	    puts "hello"
+	  end
+
+	  say_hello
+	  puts self
+
+	end
+	```
+
+	What should this Class print to the screen when defined/loaded?
+
+	```ruby
+	class Student
+
+	  def self.say_hello
+	    puts self
+	  end
+
+	  say_hello
+
+	end
+	```
+
+	What should this Class print to the screen when defined/loaded?
+
+	```ruby
+	class Student
+
+	  def initialize
+	    puts self
+	  end
+
+	  new
+
+	end
+	```
+
+	What should this code print to the screen when run?
+
+	```ruby
+	class Student
+
+	  def say_hello
+	    puts self
+	  end
+
+	end
+	```
+
+	Student.new.say_hello
+
+	What should this code print to the screen when run?
+
+	```ruby
+	class Student
+
+	  def say_hello
+	    puts say_goodbye
+	  end
+
+	  def say_goodbye
+	    "goodbye"
+	  end
+
+	end
+	```
+
+	Student.new.say_hello
