@@ -2,11 +2,16 @@
 
 ## Instructions
 - Create a file with "\<yourName\>_assessment.rb". 
+
+### Sections 1-6
 - Title each section with a comment that includes the name and number of each section. 
 - Then write the ruby that fulfills each lettered instruction under the title. There is no need to structure your code based on the lettered instructions.
 - If you need to use code from a previous *numbered* section please cut and paste into the approrpriate section.
 
 *tl;dr:* Your deliverable should be structured based on the numbered sections, not the lettered sections.
+
+### Section 7
+- Please use the letters and answer each lettered question individually.
 
 EXAMPLE:
 *NB. this is in javascript so if you copy it, you will not be correct.*
@@ -26,6 +31,11 @@ EXAMPLE:
  for(i in instructor){
  	console.log(i + ": " + instructor[i]);
  }
+ //.... etc etc
+ 
+ //...
+ //7. Self
+ //	a. Arrararrr Syntax error cuz i'm taking this is JS and not ruby
  //.... etc etc
 ```
  
