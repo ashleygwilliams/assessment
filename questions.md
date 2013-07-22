@@ -1,6 +1,15 @@
-# Code
+# Student Ruby Assessment
 
-# Questions
+## Instructions
+- Create a file with "<yourName>_assessment.rb". 
+- Title each section with a comment that includes the name and number of each section. 
+- Then write the ruby that fulfills each lettered instruction under the title. There is no need to structure your code based on the lettered instructions.
+- If you need to use code from a previous *numbered* section please cut and paste into the approrpriate section.
+
+*tl;dr:* Your deliverable should be structured based on the numbered sections, not the lettered sections.
+
+
+## Questions
 
 ** Questions should be answered with the simplest, most barebone solution possible.
 
