@@ -23,6 +23,9 @@ EXAMPLE:
  
  //2. Hashes
  instructor = {"name": "Ashley", "age": 27};
+ for(i in instructor){
+ 	console.log(i + ": " + instructor[i]);
+ }
  //.... etc etc
 ```
  
