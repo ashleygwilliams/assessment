@@ -89,7 +89,7 @@
 		i. Create a method that adds a new key at the top level of the school hash, given a key and a value. 
 		ii. Then use it to add a "Ranking" key with the value 1.
 
-#5. Object Orientation
+###5. Object Orientation
 
 	a. Create a bare bones class definition for a School class.
 
@@ -114,14 +114,10 @@
 
 	h. Create a class method `reset` that will empty the SCHOOLS constant.
 
-## blah
+## Classes
 
 	a. Create a Student class.
 
 	b. Refactor your School instance methods to treat Students as an array of objects instead of an array of hashes.
 
 	c. Create a method in the School class that finds a student by name and returns the correct Student object.	
-
-
-## Enumerables
-
