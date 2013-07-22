@@ -178,21 +178,6 @@ EXAMPLE:
 	class Student
 
 	  def self.say_hello
-	    puts "hello"
-	  end
-
-	  say_hello
-	  puts self
-
-	end
-	```
-
-	What should this Class print to the screen when defined/loaded?
-
-	```ruby
-	class Student
-
-	  def self.say_hello
 	    puts self
 	  end
 
