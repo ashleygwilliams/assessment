@@ -145,7 +145,7 @@ EXAMPLE:
 
 	h. Create a class method `reset` that will empty the SCHOOLS constant.
 
-## Classes
+###6. Classes
 
 	a. Create a Student class.
 
@@ -153,11 +153,12 @@ EXAMPLE:
 
 	c. Create a method in the School class that finds a student by name and returns the correct Student object.	
 
-## Self
+###7. Self
+For this section, please use the letters and answer each individually.
 
 	Note: in cases where self is an instance of an object just note that as the object id printed to the screen is going to be different everytime
 
-	What should this Class print to the screen when defined/loaded?
+	a.What should this Class print to the screen when defined/loaded?
 
 	```ruby
 	class Student
@@ -172,7 +173,7 @@ EXAMPLE:
 	end
 	```
 
-	What should this Class print to the screen when defined/loaded?
+	b. What should this Class print to the screen when defined/loaded?
 
 	```ruby
 	class Student
@@ -186,7 +187,7 @@ EXAMPLE:
 	end
 	```
 
-	What should this Class print to the screen when defined/loaded?
+	c. What should this Class print to the screen when defined/loaded?
 
 	```ruby
 	class Student
@@ -200,7 +201,7 @@ EXAMPLE:
 	end
 	```
 
-	What should this code print to the screen when run?
+	d. What should this code print to the screen when run?
 
 	```ruby
 	class Student
@@ -214,7 +215,7 @@ EXAMPLE:
 
 	Student.new.say_hello
 
-	What should this code print to the screen when run?
+	e. What should this code print to the screen when run?
 
 	```ruby
 	class Student
