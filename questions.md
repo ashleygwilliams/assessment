@@ -13,7 +13,7 @@
 ### Section 7
 - Please use the letters and answer each lettered question individually.
 
-EXAMPLE:
+### EXAMPLE:
 *NB. this is in javascript so if you copy it, you will not be correct.*
 ```javascript
  //AshleyWilliams_assessment.js
